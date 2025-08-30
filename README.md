@@ -5,9 +5,8 @@ I'm passionate about coding and building solutions that make a real-world impact
 
 ## 🌱 Currently Learning
 - Data Structures and Algorithms
-- App Development (Flutter, Firebase)
+- Web Development 
 - AI/ML techniques for disease detection
-- Backend integration and cloud tools
 
 ## 💞️ Looking to Collaborate On
 - Real-world applications in agriculture and energy
