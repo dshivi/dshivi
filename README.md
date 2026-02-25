@@ -17,7 +17,7 @@ I'm passionate about coding and building solutions that make a real-world impact
 Feel free to connect with me via:
 - GitHub: [@dshivi](https://github.com/dshivi)
 - Email: shividhurve750@gmail.com
-- LinkedIn:https://www.linkedin.com/in/shivi-dhurve-428423213/
+- LinkedIn:https://www.linkedin.com/in/shivi-dhurve
 ---
 
 Let’s build something impactful together 🚀
